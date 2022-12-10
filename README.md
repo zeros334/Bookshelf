@@ -1,7 +1,7 @@
 # Bookshelf
 Project Secure Programming
 
-Projek untuk belajar secure programming
+Projek untuk secure programming
 
 kelompok 8 
 anggota
