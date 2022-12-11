@@ -30,7 +30,7 @@
 
     <div class="login-form">
         <h1>Login</h1>
-        <form action="" method="POST">
+        <form action="./controllers/LoginController.php" method="POST">
             <ul class="login-form-ul">
                 <li class="username">
                     <label for="fullname">Username or email</label><br />
@@ -41,7 +41,10 @@
                     <label for="password">Password</label><br />
                     <input type="password" id="password" name="password"><br />
                 </li>
-                <input type="submit" value="Login" >
+                <div class="button-section">
+                    <input type="submit" value="Login" name="login">
+                </div>
+                
             </ul>
     
         </form>

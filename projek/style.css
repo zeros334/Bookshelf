@@ -136,3 +136,43 @@ input[type="submit"]{
 }
 
 
+
+input[type=submit] {
+    border: none;
+    width: 10rem;
+    height: 2rem;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.button-section{
+    margin-bottom: 20px;
+}
+.button-section input[type=submit]{
+    /* border: none; */
+    width: 20rem;
+    height: 50px;
+    padding: 12px 20px;
+}
+.button-section input[value=login]{
+    margin-bottom: 20px;
+}
+/* .button-section input[type=login]{
+    margin-bottom: 5px;
+} */
+
+
+
+
+
+/* sepertinya bukan di tengahnya sih harusnya */
+/* menurut lu di button atau di input? */
+/* harusnya di input, soalnya di phpnya gabuat buton */
+/* udah gue coba tapi ga ngaruh coba lu liat di coding [type=submit] */
+/* kok ga ngefek yah? penasaran gue... */
+/* tombolnya ilang  */
+/* udah tuh tinggal di  taruh ke tengah aja */
+/* atau ga  lu bisa kasi padding/ margin biar ga nempel banget sama tembok */
+
+/* gue mandi  dulu bentar 😁😁😁 */
